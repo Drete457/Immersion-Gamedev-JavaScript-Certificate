@@ -2,6 +2,8 @@
 ## ImergeGaveDevJS
 ![certificado_alura](https://github.com/Drete457/ImergeGaveDevJS/blob/master/Certificado.JPG)
 
+To view the live certificate click [here](https://drete457.github.io/Immersion-Gamedev-JavaScript-Certificate/ "here").
+
 ## Description
 
 Basic game created during the Alura's #ImersãoGameDev week.
